@@ -4,3 +4,4 @@ This is a repo which contains program code from various Arduino projects. It was
 
 #### References
 + https://create.arduino.cc/projecthub/ryanchan/simple-programmable-robotic-arm-bd28a0?ref=tag&ref_id=arduino&offset=4
++ https://create.arduino.cc/projecthub/BuildItDR/arduino-lie-detector-a0b914?ref=tag&ref_id=arduino&offset=9
